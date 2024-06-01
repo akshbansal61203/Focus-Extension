@@ -1,1 +1,5 @@
 The Focus Mode: Distraction Blocker is a browser extension designed to enhance productivity by temporarily blocking access to social media and other distracting websites during designated work hours. This tool helps users stay focused on their tasks by preventing access to specified websites that often lead to procrastination and loss of productivity. Distraction Blocker extension is a powerful tool to help users maintain productivity by blocking access to distracting websites during work hours. I have attached screenshots of Focus mode extension before and after it's deployed.
+Below are the screenshot of the extension after deployment.
+<img width="1291" alt="Screenshot 2024-06-01 at 9 04 35 AM" src="https://github.com/akshbansal61203/Focus-Extension/assets/123982568/2c5b5c20-6efe-4392-a429-4cdb0b09db87">
+<img width="1291" alt="Screenshot 2024-06-01 at 9 03 47 AM" src="https://github.com/akshbansal61203/Focus-Extension/assets/123982568/c8ef0949-1c73-4e5e-9e9d-a2482767a6fe">
+<img width="1416" alt="Screenshot 2024-06-01 at 9 02 44 AM" src="https://github.com/akshbansal61203/Focus-Extension/assets/123982568/cf57e3df-7602-4b8c-8044-8f5280fabcae">
